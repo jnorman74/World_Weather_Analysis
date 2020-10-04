@@ -4,6 +4,10 @@ config.py
 # Adding additional files.
 API_practice.ipynb
 random_numbers.inpnb
+Vacation_Itinerary_starter_code.ipynb
+Untitled.ipynb
+Google_Nearby_Search.ipynb
+API_practice.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
